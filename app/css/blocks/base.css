@@ -1,0 +1,58 @@
+html {
+  font-family: Lato; }
+
+.title {
+  color: #4f4e4e;
+  font-family: Lato;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.0525rem; }
+
+.text {
+  color: #606060;
+  font-family: Lato;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  letter-spacing: 0.03rem;
+  white-space: pre-line; }
+
+a {
+  cursor: pointer; }
+
+.about .row .col-md-12:last-child, .contact .row .col-md-12:last-child {
+  padding: 1.25rem 0;
+  margin-right: 0;
+  margin-left: 0;
+  border-top: 0.125rem solid #c2c2c2; }
+  .about .row .col-md-12:last-child a, .contact .row .col-md-12:last-child a {
+    padding: 0; }
+  .about .row .col-md-12:last-child button, .contact .row .col-md-12:last-child button {
+    width: auto;
+    border: 0;
+    color: #818181;
+    font-family: Lato;
+    font-size: 1.125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.9px; }
+  .about .row .col-md-12:last-child button:active, .about .row .col-md-12:last-child button:focus, .about .row .col-md-12:last-child button:hover, .contact .row .col-md-12:last-child button:active, .contact .row .col-md-12:last-child button:focus, .contact .row .col-md-12:last-child button:hover {
+    outline: none;
+    color: #58c93a; }
+
+.about .row .col-md-12 .col-md-12, .contact .row .col-md-12 .col-md-12 {
+  margin-top: 5rem; }
+
+.contact {
+  color: #330101;
+  font-family: Lato;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.0525rem; }
+  .contact span {
+    text-transform: lowercase; }
+  .contact p {
+    margin: 45px 0; }

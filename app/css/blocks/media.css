@@ -1,0 +1,15 @@
+@media (max-width: 1200px) and (min-width: 775px) {
+  header .col-md-auto {
+    width: 30%; } }
+
+@media (max-width: 1200px) {
+  header {
+    height: auto; }
+    header .row a:hover, header .row a:active {
+      color: #58c93a; }
+      header .row a:hover::after, header .row a:active::after {
+        display: none; }
+    header .row .col-md-1, header .row .col-md-auto {
+      margin-bottom: 0.875rem; }
+  .posts img {
+    width: 100%; } }

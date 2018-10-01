@@ -1,0 +1,22 @@
+.about .row .col-md-12:last-child {
+  padding: 1.25rem 0;
+  margin-right: 0;
+  margin-left: 0;
+  border-top: 0.125rem solid #c2c2c2; }
+  .about .row .col-md-12:last-child a {
+    padding: 0; }
+  .about .row .col-md-12:last-child button {
+    width: auto;
+    border: 0;
+    color: #818181;
+    font-family: Lato;
+    font-size: 1.125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.9px; }
+  .about .row .col-md-12:last-child button:active, .about .row .col-md-12:last-child button:focus, .about .row .col-md-12:last-child button:hover {
+    outline: none;
+    color: #58c93a; }
+
+.about .row .col-md-12 .col-md-12 {
+  margin-top: 5rem; }
