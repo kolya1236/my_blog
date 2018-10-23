@@ -9,8 +9,9 @@
 <body>
 
 	<?php
-		@include_once "header.php";
-		@include_once "about.php";
+		@include_once "blocks/re_used/header.php";
+		@include_once "blocks/about/about.php";
+		@include_once "blocks/re_used/footer.php";
 	?>
 </body>
 </html>

@@ -1,6 +1,6 @@
 
 
-	<footer class="container-fluid">
+	<footer class="container-fluid ixed-bottom">
 		<div class="row">
 			<div class="col-md-12 title">Travel and Techno blog</div>
 			<div class="col-md-12">

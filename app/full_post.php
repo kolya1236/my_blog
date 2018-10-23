@@ -9,10 +9,10 @@
 <body>
 
 	<?php
-		@include_once "query.php";
-		@include_once "header.php";
-		@include_once "post.php";
-		@include_once "footer.php";
+		@include_once "blocks/re_used/query.php";
+		@include_once "blocks/re_used/header.php";
+		@include_once "blocks/single_post/post.php";
+		@include_once "blocks/re_used/footer.php";
 
 		
 	?>

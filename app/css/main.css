@@ -171,4 +171,7 @@ footer {
     header .row .col-md-1, header .row .col-md-auto {
       margin-bottom: 0.875rem; }
   .posts img {
-    width: 100%; } }
+    width: 100%;
+    height: 100%; }
+  .posts .title {
+    margin-bottom: 0; } }
